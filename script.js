@@ -1,3 +1,3 @@
 'use-strict'
 
-alert("HAHA");
+alert("Protofolio under construction!");
